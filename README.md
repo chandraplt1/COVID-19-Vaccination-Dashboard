@@ -19,3 +19,4 @@ This project visualizes global COVID-19 vaccination trends using data from [Our 
 2. Download the dataset from [OWID GitHub](https://github.com/owid/covid-19-data)
 3. Place `vaccinations.csv` into the `data/` folder
 4. Launch `covid_vaccine_dashboard.ipynb`
+![Vaccination Trends](vaccination.png)
